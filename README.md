@@ -46,3 +46,11 @@
     <div class="grid grid-cols-2 gap-4"><a href="https://www.github.com/AgvanGrigoryan/todo_server" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AgvanGrigoryan&amp;repo=todo_server&amp;title_color=84cc16&amp;text_color=ffffff&amp;icon_color=84cc16&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en"></a></div>
 </div>
 <div class="flex flex-col gap-x-2 gap-y-2 "></div>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/agvan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
