@@ -5,7 +5,7 @@
     <h2>Back-end Developer</h2>
     <p class="whitespace-pre-line">I have been studying programming for 5 years. I started studying programming from the moment I entered college (YSCI) in the Faculty of Programming. Studied the basics of programming in C#, C++. In parallel, I studied web programming, first frontend, then backend, and as a result I stopped at python (Django).
         Books read : Grokking Algorithms(rus).
-        After college, he entered the "pool" in the Yerevan branch of the world-famous school 42 ecole - 42yerevan.am.
+        After college, I entered the "pool" in the Yerevan branch of the world-famous school 42 ecole - 42yerevan.am.
         Edited on 13.08.2023
     </p>
     <ul class="mt-4 list-disc list-inside">
