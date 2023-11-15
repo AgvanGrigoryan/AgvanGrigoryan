@@ -38,13 +38,13 @@
     <h3>Socials</h3>
 </div>
 <div class="flex flex-wrap gap-x-2 gap-y-2 mb-4"><a target="_blank" rel="noreferrer" href="https://www.github.com/AgvanGrigoryan"><img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"></a><a target="_blank" rel="noreferrer" href="http://www.instagram.com/agvan_gr"><img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"></a></div>
-<div class="flex">
+<!-- <div class="flex">
     <h3>Badges</h3>
 </div>
 <div class="flex flex-col items-start gap-x-2 gap-y-2">
     <p class="mt-2 font-bold text-dark-300">Top Repositories</p>
     <div class="grid grid-cols-2 gap-4"><a href="https://www.github.com/AgvanGrigoryan/todo_server" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AgvanGrigoryan&amp;repo=todo_server&amp;title_color=84cc16&amp;text_color=ffffff&amp;icon_color=84cc16&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en"></a></div>
-</div>
+</div> -->
 <div class="flex flex-col gap-x-2 gap-y-2 "></div>
 
 ### Support Me
