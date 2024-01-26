@@ -6,6 +6,7 @@
     <p class="whitespace-pre-line">I have been studying programming for 5 years. I started studying programming from the moment I entered college (YSCI) in the Faculty of Programming. Studied the basics of programming in C#, C++. In parallel, I studied web programming, first frontend, then backend, and as a result I stopped at python (Django).
         Books read : Grokking Algorithms(rus).
         After college, I entered the "pool" in the Yerevan branch of the world-famous school 42 ecole - 42yerevan.am.
+        I am currently studying at 42Yerevan school :)
         Edited on 13.08.2023
     </p>
     <ul class="mt-4 list-disc list-inside">
@@ -14,6 +15,11 @@
         <li>🧠&nbsp; I'm learning C, Bash scripts and Linux basics</li>
         <li>🤝&nbsp; I'm open to collaborating on  working as a junior or interesting practical projects</li>
     </ul>
+    <div>
+        <a href="https://github.com/AgvanGrigoryan/42-cursus">
+            <img src="https://badge.mediaplus.ma/darkblue/aggrigor?1337Badge=off&UM6P=off" alt="aggrigor's 42 stats" />
+        </a>
+    </div>
 </div>
 <div class="flex flex-wrap gap-x-2 gap-y-2 mb-0"></div>
 <div class="flex">
