@@ -26,7 +26,7 @@
     <h3>Skills</h3>
 </div>
 
-    [![My Skills](https://skillicons.dev/icons?i=c,python,git,github)](https://skillicons.dev)
+    [My Skills](https://skillicons.dev/icons?i=c,python,git,github)
 <div class="flex flex-wrap gap-y-1.5 gap-x-1.5 mb-4" style="width:100%;">
 </div>
 <div class="flex">
