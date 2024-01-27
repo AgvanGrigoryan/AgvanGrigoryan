@@ -25,8 +25,13 @@
 <div class="flex">
     <h3>Skills</h3>
 </div>
-
-    https://skillicons.dev/icons?i=c,python,git,github
+<div>
+    <p align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,python,vim,git,github" />
+      </a>
+    </p>
+</div>
 <div class="flex flex-wrap gap-y-1.5 gap-x-1.5 mb-4" style="width:100%;">
 </div>
 <div class="flex">
