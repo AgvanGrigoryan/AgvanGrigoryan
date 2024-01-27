@@ -37,7 +37,13 @@
 <div class="flex">
     <h3>Socials</h3>
 </div>
-<div class="flex flex-wrap gap-x-2 gap-y-2 mb-4"><a target="_blank" rel="noreferrer" href="https://www.github.com/AgvanGrigoryan"><img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"></a><a target="_blank" rel="noreferrer" href="http://www.instagram.com/agvan_gr"><img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"></a></div>
+<div>
+    <p align="left">
+      <a href="https://www.instagram.com/agvan_gr/">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+      </a>
+    </p>
+</div>
 <!-- <div class="flex">
     <h3>Badges</h3>
 </div>
