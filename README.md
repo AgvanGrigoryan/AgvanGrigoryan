@@ -3,11 +3,11 @@
         <h1>Hi 👋 My name is Agvan Grigoryan</h1>
     </div>
     <h2>Learner</h2>
-    <p class="whitespace-pre-line">I have been studying programming for 5 years. I started studying programming from the moment I entered college (YSCI) in the Faculty of Programming. Studied the basics of programming in C#, C++. In parallel, I studied web programming, first frontend, then backend, and as a result I stopped at python (Django).
-        Books read : Grokking Algorithms(rus).
-        After college, I entered the "pool" in the Yerevan branch of the world-famous school 42 ecole - 42yerevan.am.
-        I am currently studying at 42Yerevan school :)
-        Edited on 13.08.2023
+    <p class="whitespace-pre-line">I have been engaged in programming for five years, starting with my studies at the College of Computer Science (YSCI) in the programming faculty. He began with the basics of programming on C++. In parallel, he studied web programming: first frontend, then backend.
+
+Read the book "Grokking Algorithms" (in Russian), which helped me to better understand the algorithms.
+
+Having enrolled in 42 Ecole school (42yerevan.am) after graduating from college, I continue to deepen into programming in 42Yerevan. During my training I have implemented various projects such as Minishell, Philosophers, FdF, Pipex and others, which allowed me to significantly expand my skills and knowledge
     </p>
     <ul class="mt-4 list-disc list-inside">
         <li>🌍&nbsp; I'm based in Armenia, Yerevan</li>
