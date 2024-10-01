@@ -1,13 +1,14 @@
 # Agvan Grigoryan
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/hejazizo)](https://twitter.com/hejazizo)
+[![Telegram](https://img.shields.io/badge/-Telegram-1da1f2?labelColor=1da1f2&logo=Telegram&logoColor=white&link=https:://t.me/agvan_gr)](https://t.me/agvan_gr)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agvan-grigoryan/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.instagram.com/ali.hejazzii)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-purple?logo=leetcode&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.instagram.com/ali.hejazzii)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:agvangrigoryan2003@gmail.com)
+<!--
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
 [![Github](https://img.shields.io/github/followers/aggrigor?label=Follow&style=social)](https://github.com/aggrigor)
-
+-->
 Having enrolled in 42 Ecole school (42yerevan.am) after graduating from college, I continue to deepen into programming in 42Yerevan. During my training I have implemented various projects such as Minishell, Philosophers, FdF, Pipex and others, which allowed me to significantly expand my skills and knowledge
 
     🌍  I'm based in Armenia, Yerevan
