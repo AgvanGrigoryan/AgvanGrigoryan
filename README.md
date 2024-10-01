@@ -9,7 +9,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
 [![Github](https://img.shields.io/github/followers/aggrigor?label=Follow&style=social)](https://github.com/aggrigor)
 -->
-Having enrolled in 42 Ecole school (42yerevan.am) after graduating from college, I continue to deepen into programming in 42Yerevan. During my training I have implemented various projects such as Minishell, Philosophers, FdF, Pipex and others, which allowed me to significantly expand my skills and knowledge
+Having enrolled in 42 Ecole school (42yerevan.am) after graduating from college, I continue to deepen into programming in 42Yerevan. During my training I have implemented various projects such as Minishell, Philosophers, FdF, Pipex and others, which allowed me to significantly expand my skills and knowledge. I am constantly improving my knowledge and myself included :trollface:
 
     🌍  I'm based in Armenia, Yerevan
     ✉️  You can contact me at agvangrigoryan2003@gmail.com
