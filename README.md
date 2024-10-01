@@ -27,14 +27,17 @@ Having enrolled in 42 Ecole school (42yerevan.am) after graduating from college,
 
 ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&color=353535) ![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=C++&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Make-05122A?style=flat-square&logo=Make&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535) ![Bootstrap](https://img.shields.io/badge/-bash-05122A?style=flat-square&logo=bash&color=353535)
 
+
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aggrigor&show_icons=true&locale=en&layout=compact" alt="aggrigor" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=aggrigor&" alt="aggrigor" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=agvangrigoryan&theme=dark&show_icons=true&hide_border=true&locale=en&layout=compact" alt="agvangrigoryan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agvangrigoryan&theme=dark&hide_border=true" alt="aggrigor" />
 </div>
 
 
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+<br>
+
+
+To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
 
 <!--
 AAAAAAAAAAAAAAA
