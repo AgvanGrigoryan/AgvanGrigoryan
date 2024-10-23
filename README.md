@@ -3,7 +3,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-1da1f2?labelColor=1da1f2&logo=Telegram&logoColor=white&link=https:://t.me/agvan_gr)](https://t.me/agvan_gr)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agvan-grigoryan/)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-purple?logo=leetcode&logoColor=white&link=https://leetcode.com/u/AgvanGrigoryan/)](https://www.instagram.com/ali.hejazzii)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-purple?logo=leetcode&logoColor=white&link=https://leetcode.com/u/AgvanGrigoryan/)](https://leetcode.com/u/AgvanGrigoryan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:agvangrigoryan2003@gmail.com)
 <!--
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
