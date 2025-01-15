@@ -30,7 +30,7 @@ Having enrolled in 42 Ecole school (42yerevan.am) after graduating from college,
 
 <div>
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=agvangrigoryan&theme=dark&show_icons=true&hide_border=true&locale=en&layout=compact" alt="agvangrigoryan" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agvangrigoryan&theme=dark&hide_border=true" alt="aggrigor" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agvangrigoryan&theme=dark&hide_border=true" alt="" />
 </div>
 <br>
 
