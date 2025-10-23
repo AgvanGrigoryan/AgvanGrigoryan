@@ -9,11 +9,13 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
 [![Github](https://img.shields.io/github/followers/aggrigor?label=Follow&style=social)](https://github.com/aggrigor)
 -->
-Having enrolled in 42 Ecole school (42yerevan.am) after graduating from college, I continue to deepen into programming in 42Yerevan. During my training I have implemented various projects such as Minishell, Philosophers, FdF, Pipex and others, which allowed me to significantly expand my skills and knowledge. I am constantly improving my knowledge and myself included :trollface:
+Backend developer with solid knowledge of Python, Django, and FastAPI.
+Experienced in designing RESTful APIs, managing relational databases (PostgreSQL/MySQL), and optimizing ORM performance.
+Comfortable working in Linux environments and applying CS fundamentals such as OOP, data structures, and algorithms to real-world problems.:trollface:
 
     🌍  I'm based in Armenia, Yerevan
     ✉️  You can contact me at agvangrigoryan2003@gmail.com
-    🧠  I'm learning C++, python and django
+    🧠  I'm learning python and django
     🤝  I'm open to collaborating on working as a junior or interesting practical projects
 
 <img src="https://badge.mediaplus.ma/darkblue/aggrigor?1337Badge=off&UM6P=off" alt="aggrigor's 42 stats" />
