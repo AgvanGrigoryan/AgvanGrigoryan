@@ -22,9 +22,18 @@ Comfortable working in Linux environments and applying CS fundamentals such as O
 
 ### 🖥 Skills
 
-- Backend development
-- teamwork
-- problem solving
+- Backend Development: Python, Django, FastAPI, RESTful API design
+
+- Databases: PostgreSQL, MySQL, ORM optimization, migrations
+
+- Architecture: Modular structure, clean code, scalability, SOLID/DRY principles
+
+- Tools: Git, Linux, Docker, virtualenv, Bash scripting
+
+- Problem Solving: Debugging, optimization, algorithmic thinking
+
+- Collaboration: Teamwork, code reviews, technical communication
+
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&color=353535) ![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=C++&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Makefile-05122A?style=flat-square&logo=Makefile&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535) ![Bootstrap](https://img.shields.io/badge/-bash-05122A?style=flat-square&logo=bash&color=353535)
