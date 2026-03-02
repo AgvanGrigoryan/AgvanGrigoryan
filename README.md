@@ -15,8 +15,8 @@ Comfortable working in Linux environments and applying CS fundamentals such as O
 
     🌍  I'm based in Armenia, Yerevan
     ✉️  You can contact me at agvangrigoryan2003@gmail.com
-    🧠  I'm learning python and django
-    🤝  I'm open to collaborating on working as a junior or interesting practical projects
+    🧠  I'm on a constant feed of corporate IT expertise.
+    🤝  I'm open to collaborating on working on interesting practical projects
 
 <img src="https://badge.mediaplus.ma/darkblue/aggrigor?1337Badge=off&UM6P=off" alt="aggrigor's 42 stats" />
 
